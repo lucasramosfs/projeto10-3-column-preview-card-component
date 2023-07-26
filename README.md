@@ -4,7 +4,7 @@
 
 Exercício simples mas divertido de se fazer
 
-<a href="https://lucasramosfs.github.io/projeto10-3-column-preview-card-component/ "> Clique aqui para acessar a página</a>
+<a href="https://lucasramosfs.github.io/projeto10-3-column-preview-card-component/ " target="_blank"> Clique aqui para acessar a página</a>
 
 ### Resultado final
 
